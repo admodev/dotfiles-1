@@ -25,7 +25,7 @@ filetype off                  " required
 
   " Simple tab completion
   Plug 'Shougo/deoplete.nvim'
-  Plug 'zchee/deoplete-clang'
+  " Plug 'zchee/deoplete-clang'
 
   " Syntax checking
   Plug 'scrooloose/syntastic'
@@ -124,7 +124,7 @@ filetype off                  " required
 
 " Clipboard setting {{{
 
-  set clipboard^=unnamed,unnamedplus
+  " set clipboard^=unnamed,unnamedplus
 
 " }}}
 
